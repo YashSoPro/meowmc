@@ -1,3 +1,3 @@
-# eaglercraft-105
-## Here you can play eaglercraft
+# MeowMC
+## a fork of eaglercraft and eaglercraft-105
 ## Enjoy!
